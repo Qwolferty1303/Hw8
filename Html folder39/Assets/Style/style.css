@@ -1,0 +1,28 @@
+.new{
+    rotate: 90deg;
+    font-size: xx-large;
+    position: absolute;
+    margin-left: 21.5%;
+    margin-top: 150px;
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+    border: inherit;
+    background-color: rgb(45, 172, 130);
+    color: white;
+}
+
+.new:hover{
+    background-color: rgb(169, 243, 218);
+    color: black;
+}
+
+.h{ 
+    text-align: center;
+    margin-top: -30px;
+}
+
+.man{
+    margin-top: 225px;
+    margin-right: 73px;
+}
